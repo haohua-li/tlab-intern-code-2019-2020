@@ -18,7 +18,7 @@ The resulting script of this project is [CSSR-Matlab](https://github.com/randoru
 
 Apply the similar framework from Roberto's paper to wake and anaesthesia datasets. 
 
-This method of ***measuring the degree of consciousness*** can be applied to [anesthesiology](https://www.youtube.com/watch?v=K2dMqs7GfuI) to avoid [accidental awareness during anaesthesia](https://www.bbc.com/news/magazine-38733131) or diagnosing vegetative state.  
+This method of ***measuring the degree of consciousness*** can be applied to vegetative state diagnosis or [anesthesiology](https://www.youtube.com/watch?v=K2dMqs7GfuI) to avoid [accidental awareness during anaesthesia](https://www.bbc.com/news/magazine-38733131) without the need of observing patients' responses to the external stimulus.  
 
  
 
