@@ -52,3 +52,5 @@ The comparison between the spectrogram and catch22.
 ## Conclusion 
 
 Cath22 can extract useful information from EEG time series. 
+
+This simple method can be used for automated sleep scoring from a new point of view (other than spectrogram or RNN). 
