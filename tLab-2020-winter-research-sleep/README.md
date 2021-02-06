@@ -54,3 +54,9 @@ The comparison between the spectrogram and catch22.
 Cath22 can extract useful information from EEG time series. 
 
 This simple method can be used for automated sleep scoring from a new point of view (other than spectrogram or RNN). 
+
+In the future, 
+
+- Noise Filtering : power line noise and its harmonics, bandpass filter (0.5~100Hz)
+- FFT Window :hamming, welch, blackman.... 
+- Supervised Learning: as K-mean clustering does not specify which cluster corresponds to which sleep stage, some supervised learning may be needed to distinguish them.  
