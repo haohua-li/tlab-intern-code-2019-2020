@@ -68,7 +68,7 @@ It shows that if the history length is larger than 8, the distinction between wa
 In the future, 
 
 - Both the complexity and asymmetry of a process can be measured (statistical complexity, causal irreversibility, crypticity KL divergence) .  Details in Roberto's paper 
-- The idea from Short-time Fourier transform can be used to guarantee stationary assumption in a short-time process. 
+- The idea from Short-time Fourier transform can be used to guarantee stationary assumption in a short-time process (namely, Hamming window, Welch window see the [Window function - Wikipedia](https://en.wikipedia.org/wiki/Window_function). 
 - Other discretization techniques like top and symbolic transformation can be used. Moreover, Outlier problems have not been considered yet (EEG is usually very noisy). 
 - As CSSR-Matlab now can work in Matlab, it is easy to integrate the CSSR into [HCTSA](https://github.com/benfulcher/hctsa). It can be used to compare epsilon machine with other existing promising feature, see https://hctsa-users.gitbook.io/hctsa-manual/analyzing_visualizing/feature-comparison for details. 
 
