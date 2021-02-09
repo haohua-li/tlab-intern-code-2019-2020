@@ -57,7 +57,7 @@ This method of ***measuring the degree of consciousness*** can be applied to veg
 
 ## Conclusion 
 
-It shows that if the history length is larger than 8 (why is that?), the distinction between wake and anaesthesia can be significant. The results agree with the original paper overall (xenon, propofol can suppress consciousness while ketamine not). 
+It shows that if the history length is larger than 8 (why is that?is it common to all channels?), the distinction between wake and anaesthesia can be significant. The results agree with the original paper overall (xenon, propofol can suppress consciousness while ketamine not). 
 
 | Propofol                                                     | Xenon                                                   | Ketamine                                                |
 | ------------------------------------------------------------ | ------------------------------------------------------- | ------------------------------------------------------- |
