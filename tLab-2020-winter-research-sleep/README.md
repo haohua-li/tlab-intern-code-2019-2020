@@ -16,6 +16,8 @@ Use HCTSA and its subset catch22 for automated sleep stage scoring in a data-dri
 	- 10s, 30s....
 - [HCTSA](https://github.com/benfulcher/hctsa) and [catch22](https://github.com/chlubba/catch22)
 	- [Multi-taper Spectrogram](https://prerau.bwh.harvard.edu/multitaper/) (for comparisons)
+	- <https://doi.org/10.1152/physiol.00062.2015>
+	- [Sleep EEG Multitaper Tutorial: An Introduction to Spectral Analysis (Part 1 of 3)](https://www.youtube.com/watch?v=OVsZJLtzNsw)
 - K-medoids Clustering 
 - Principle Component Analysis (can be [Robust Component Analysis](https://www.youtube.com/watch?v=yDpz0PqULXQ) in the future)
 
