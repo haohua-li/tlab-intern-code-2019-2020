@@ -57,7 +57,7 @@ This method of ***measuring the degree of consciousness*** can be applied to veg
 
 ## Conclusion 
 
-It shows that if the history length is larger than 8 (why is that?is it common to all channels?), the distinction between wake and anaesthesia can be significant. The results agree with the original paper overall (xenon, propofol can suppress consciousness while ketamine not). 
+It shows that if the history length is larger than 8 (why is that? is it common to all channels? I think a simple way to explain it is ASCII encoding. Because the diffrence binary split can only generate binary sequences, if the history length is too short, the size of the alphabet would be smaller), the distinction between wake and anaesthesia can be significant. The results agree with the original paper overall (xenon, propofol can suppress consciousness while ketamine not). 
 
 | Propofol                                                     | Xenon                                                   | Ketamine                                                |
 | ------------------------------------------------------------ | ------------------------------------------------------- | ------------------------------------------------------- |
