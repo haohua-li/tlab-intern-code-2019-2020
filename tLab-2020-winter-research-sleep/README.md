@@ -8,10 +8,10 @@ July 2020 @[tLab](https://sites.google.com/monash.edu/tlab/home) under the super
 
 Use HCTSA and its subset catch22 for automated sleep stage scoring in a data-driven method. 
 
-
+## Assumption 
+We want to find a neural index that is relevant to the electrical signals of the human brain. It should not be time-relevant. 
 
 ## Method 
-
 - Fixed size epoch 
 	- 10s, 30s....
 - [HCTSA](https://github.com/benfulcher/hctsa) and [catch22](https://github.com/chlubba/catch22)
